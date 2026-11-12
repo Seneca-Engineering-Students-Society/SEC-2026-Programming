@@ -4,6 +4,7 @@
 
 Read this whole file before you start coding. Everything you need is in this repo.
 
+Submission Link: https://forms.gle/SqjzamvnBi6pogfV7
 ---
 
 ## 1. Background
@@ -307,12 +308,12 @@ Both are due at **4:00 PM**.
 
 Keep your repo private until submissions close.
 
-**#2 Presentation**, named `[TeamName]_Programming_Presentation`, as .pptx **and** .pdf (no videos), **7–10 minutes max**. It should:
+**#2 Presentation**, named `[TeamName]_Programming_Presentation`, as .pptx **and** .pdf (no videos), **5-8 minutes max**. It should:
 - Walk the judges through your solution and design choices
 - Include a live demo with test orders
 - Explain how your plan helps the communities
 
-Submit both through [submission form] before **4:00 PM**. Late submissions lose **10 points for every 5 minutes**.
+Submit both through [Google Forms](https://forms.gle/SqjzamvnBi6pogfV7) before **4:00 PM**. Late submissions lose **10 points for every 5 minutes**.
 
 ---
 
