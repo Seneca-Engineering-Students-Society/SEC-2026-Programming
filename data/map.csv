@@ -1,0 +1,7 @@
+from,to,distance_km,road_type,speed_kmh
+ThunderBay,PickleLake,530,paved,80
+SiouxLookout,PickleLake,263,paved,80
+PickleLake,WindigoLake,237,gravel,60
+WindigoLake,Weagamow,44,gravel,60
+Weagamow,MuskratDam,72,winter,30
+MuskratDam,SachigoLake,67,ice,25

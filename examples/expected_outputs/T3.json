@@ -1,0 +1,76 @@
+{
+  "Delivery impossible": false,
+  "Cheapest plan": {
+    "Departure date": "23022027",
+    "Arrival date": "24022027",
+    "Truck cargo (kg)": 4000,
+    "Flown cargo (kg)": 0,
+    "Items": [
+      {
+        "Item": "food",
+        "Weight (kg)": 4000,
+        "Deadline": "28022027",
+        "Sent by": "truck",
+        "Arrival date": "24022027"
+      }
+    ],
+    "Stops": [
+      {
+        "Town": "ThunderBay",
+        "Fuel bought (L)": 250,
+        "Waited (days)": 0
+      },
+      {
+        "Town": "PickleLake",
+        "Fuel bought (L)": 15,
+        "Waited (days)": 0
+      }
+    ],
+    "Ice crossings": [
+      {
+        "Section": "Weagamow-MuskratDam",
+        "Date": "24022027",
+        "Ice thickness (cm)": 88.4,
+        "Max load (kg)": 39066,
+        "Truck weight (kg)": 11018
+      }
+    ],
+    "Flights": [],
+    "Total cost ($)": 2649.25
+  },
+  "Fastest plan": {
+    "Departure date": null,
+    "Arrival date": "20022027",
+    "Truck cargo (kg)": 0,
+    "Flown cargo (kg)": 4000,
+    "Items": [
+      {
+        "Item": "food",
+        "Weight (kg)": 4000,
+        "Deadline": "28022027",
+        "Sent by": "plane",
+        "Arrival date": "20022027"
+      }
+    ],
+    "Stops": [],
+    "Ice crossings": [],
+    "Flights": [
+      {
+        "Plane": "small_plane",
+        "Date": "19022027",
+        "Cargo (kg)": 1500
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "19022027",
+        "Cargo (kg)": 1500
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "19022027",
+        "Cargo (kg)": 1000
+      }
+    ],
+    "Total cost ($)": 19500.0
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "Delivery impossible": false,
+  "Cheapest plan": {
+    "Departure date": "11022027",
+    "Arrival date": "12022027",
+    "Truck cargo (kg)": 20000,
+    "Flown cargo (kg)": 18000,
+    "Items": [
+      {
+        "Item": "fuel",
+        "Weight (kg)": 20000,
+        "Deadline": "15032027",
+        "Sent by": "truck",
+        "Arrival date": "12022027"
+      },
+      {
+        "Item": "lumber",
+        "Weight (kg)": 18000,
+        "Deadline": "15032027",
+        "Sent by": "plane",
+        "Arrival date": "04022027"
+      }
+    ],
+    "Stops": [
+      {
+        "Town": "ThunderBay",
+        "Fuel bought (L)": 400,
+        "Waited (days)": 0
+      },
+      {
+        "Town": "PickleLake",
+        "Fuel bought (L)": 56,
+        "Waited (days)": 0
+      }
+    ],
+    "Ice crossings": [
+      {
+        "Section": "Weagamow-MuskratDam",
+        "Date": "12022027",
+        "Ice thickness (cm)": 85.1,
+        "Max load (kg)": 36222,
+        "Truck weight (kg)": 36057
+      },
+      {
+        "Section": "MuskratDam-SachigoLake",
+        "Date": "12022027",
+        "Ice thickness (cm)": 85.1,
+        "Max load (kg)": 36222,
+        "Truck weight (kg)": 36027
+      }
+    ],
+    "Flights": [
+      {
+        "Plane": "large_plane",
+        "Date": "01022027",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "large_plane",
+        "Date": "02022027",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "large_plane",
+        "Date": "03022027",
+        "Cargo (kg)": 6000
+      }
+    ],
+    "Total cost ($)": 70949.2
+  },
+  "Fastest plan": {
+    "Departure date": null,
+    "Arrival date": "07022027",
+    "Truck cargo (kg)": 0,
+    "Flown cargo (kg)": 38000,
+    "Items": [
+      {
+        "Item": "fuel",
+        "Weight (kg)": 20000,
+        "Deadline": "15032027",
+        "Sent by": "plane",
+        "Arrival date": "04022027"
+      },
+      {
+        "Item": "lumber",
+        "Weight (kg)": 18000,
+        "Deadline": "15032027",
+        "Sent by": "plane",
+        "Arrival date": "07022027"
+      }
+    ],
+    "Stops": [],
+    "Ice crossings": [],
+    "Flights": [
+      {
+        "Plane": "large_plane",
+        "Date": "01022027",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "01022027",
+        "Cargo (kg)": 1500
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "01022027",
+        "Cargo (kg)": 1500
+      },
+      {
+        "Plane": "large_plane",
+        "Date": "02022027",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "large_plane",
+        "Date": "03022027",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "large_plane",
+        "Date": "04022027",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "large_plane",
+        "Date": "05022027",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "large_plane",
+        "Date": "06022027",
+        "Cargo (kg)": 5000
+      }
+    ],
+    "Total cost ($)": 145000.0
+  }
+}

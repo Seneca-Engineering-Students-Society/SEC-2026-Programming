@@ -1,0 +1,7 @@
+order_id,start,destination,truck_id,earliest_start,items
+A1,ThunderBay,SachigoLake,semi_b,01022027,medicine:3000:10022027 fuel:20000:15032027 lumber:15000:15032027
+A2,SiouxLookout,MuskratDam,semi_b,10012027,food:8000:05022027 parts:7000:05022027
+A3,SiouxLookout,MuskratDam,light_truck,18022027,medicine:1000:20022027 food:4000:26022027
+A4,SiouxLookout,SachigoLake,tanker,01032027,fuel:26000:31032027
+A5,ThunderBay,Weagamow,semi_a,01122026,food:5000:10122026 lumber:10000:15122026
+A6,SiouxLookout,SachigoLake,semi_b,15012027,medicine:1500:20012027 food:8000:10022027 lumber:10500:15022027

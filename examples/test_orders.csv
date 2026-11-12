@@ -1,0 +1,9 @@
+test_id,start,destination,truck_id,earliest_start,items,what_it_tests
+T1,SiouxLookout,MuskratDam,semi_a,05012027,medicine:2000:10012027 food:6000:31012027 lumber:4000:31012027,The worked example: an urgent item and thin ice
+T2,ThunderBay,SachigoLake,semi_b,01022027,fuel:20000:15032027 lumber:18000:15032027,Cargo bigger than the truck: one item must fly
+T3,ThunderBay,MuskratDam,light_truck,19022027,food:4000:28022027,Warm spell closes the winter roads for a few days
+T4,ThunderBay,MuskratDam,semi_a,10122026,food:9000:20122026,Too early in the season: ice is too thin for any truck
+T5,ThunderBay,SachigoLake,semi_a,01022027,fuel:200000:03022027,Impossible: too much cargo for a short window
+T6,ThunderBay,SachigoLake,rocket,01022027,food:1000:03022027,Bad input: unknown truck type
+T7,SiouxLookout,MuskratDam,semi_a,05012027,medicine:12000:06012027,Impossible: one big item with a very close deadline
+T8,SiouxLookout,MuskratDam,semi_a,05012027,food-3000-31012027,Bad input: item not written as name:kg:ddmmyyyy

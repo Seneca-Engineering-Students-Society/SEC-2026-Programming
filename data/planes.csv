@@ -1,0 +1,3 @@
+plane_id,name,capacity_kg,cost_per_flight,max_flights_per_day
+small_plane,Small cargo plane,1500,6500,3
+large_plane,Large cargo plane,6000,22000,1

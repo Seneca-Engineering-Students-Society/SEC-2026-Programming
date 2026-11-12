@@ -1,0 +1,114 @@
+{
+  "Delivery impossible": false,
+  "Cheapest plan": {
+    "Departure date": "14012027",
+    "Arrival date": "14012027",
+    "Truck cargo (kg)": 10000,
+    "Flown cargo (kg)": 2000,
+    "Items": [
+      {
+        "Item": "medicine",
+        "Weight (kg)": 2000,
+        "Deadline": "10012027",
+        "Sent by": "plane",
+        "Arrival date": "06012027"
+      },
+      {
+        "Item": "food",
+        "Weight (kg)": 6000,
+        "Deadline": "31012027",
+        "Sent by": "truck",
+        "Arrival date": "14012027"
+      },
+      {
+        "Item": "lumber",
+        "Weight (kg)": 4000,
+        "Deadline": "31012027",
+        "Sent by": "truck",
+        "Arrival date": "14012027"
+      }
+    ],
+    "Stops": [
+      {
+        "Town": "SiouxLookout",
+        "Fuel bought (L)": 259,
+        "Waited (days)": 0
+      }
+    ],
+    "Ice crossings": [
+      {
+        "Section": "Weagamow-MuskratDam",
+        "Date": "14012027",
+        "Ice thickness (cm)": 69.6,
+        "Max load (kg)": 24242,
+        "Truck weight (kg)": 24026
+      }
+    ],
+    "Flights": [
+      {
+        "Plane": "small_plane",
+        "Date": "05012027",
+        "Cargo (kg)": 1500
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "05012027",
+        "Cargo (kg)": 500
+      }
+    ],
+    "Total cost ($)": 15781.1
+  },
+  "Fastest plan": {
+    "Departure date": "05012027",
+    "Arrival date": "06012027",
+    "Truck cargo (kg)": 6000,
+    "Flown cargo (kg)": 6000,
+    "Items": [
+      {
+        "Item": "medicine",
+        "Weight (kg)": 2000,
+        "Deadline": "10012027",
+        "Sent by": "plane",
+        "Arrival date": "06012027"
+      },
+      {
+        "Item": "food",
+        "Weight (kg)": 6000,
+        "Deadline": "31012027",
+        "Sent by": "truck",
+        "Arrival date": "05012027"
+      },
+      {
+        "Item": "lumber",
+        "Weight (kg)": 4000,
+        "Deadline": "31012027",
+        "Sent by": "plane",
+        "Arrival date": "06012027"
+      }
+    ],
+    "Stops": [
+      {
+        "Town": "SiouxLookout",
+        "Fuel bought (L)": 259,
+        "Waited (days)": 0
+      }
+    ],
+    "Ice crossings": [
+      {
+        "Section": "Weagamow-MuskratDam",
+        "Date": "05012027",
+        "Ice thickness (cm)": 63.9,
+        "Max load (kg)": 20414,
+        "Truck weight (kg)": 20026
+      }
+    ],
+    "Flights": [
+      {
+        "Plane": "large_plane",
+        "Date": "05012027",
+        "Cargo (kg)": 6000
+      }
+    ],
+    "Total cost ($)": 24781.1
+  }
+}

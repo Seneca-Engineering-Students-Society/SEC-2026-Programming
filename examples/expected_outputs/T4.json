@@ -1,0 +1,73 @@
+{
+  "Delivery impossible": false,
+  "Cheapest plan": {
+    "Departure date": null,
+    "Arrival date": "11122026",
+    "Truck cargo (kg)": 0,
+    "Flown cargo (kg)": 9000,
+    "Items": [
+      {
+        "Item": "food",
+        "Weight (kg)": 9000,
+        "Deadline": "20122026",
+        "Sent by": "plane",
+        "Arrival date": "11122026"
+      }
+    ],
+    "Stops": [],
+    "Ice crossings": [],
+    "Flights": [
+      {
+        "Plane": "large_plane",
+        "Date": "10122026",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "10122026",
+        "Cargo (kg)": 1500
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "10122026",
+        "Cargo (kg)": 1500
+      }
+    ],
+    "Total cost ($)": 35000.0
+  },
+  "Fastest plan": {
+    "Departure date": null,
+    "Arrival date": "11122026",
+    "Truck cargo (kg)": 0,
+    "Flown cargo (kg)": 9000,
+    "Items": [
+      {
+        "Item": "food",
+        "Weight (kg)": 9000,
+        "Deadline": "20122026",
+        "Sent by": "plane",
+        "Arrival date": "11122026"
+      }
+    ],
+    "Stops": [],
+    "Ice crossings": [],
+    "Flights": [
+      {
+        "Plane": "large_plane",
+        "Date": "10122026",
+        "Cargo (kg)": 6000
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "10122026",
+        "Cargo (kg)": 1500
+      },
+      {
+        "Plane": "small_plane",
+        "Date": "10122026",
+        "Cargo (kg)": 1500
+      }
+    ],
+    "Total cost ($)": 35000.0
+  }
+}

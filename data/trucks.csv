@@ -1,0 +1,5 @@
+truck_id,name,empty_weight_kg,max_cargo_kg,fuel_tank_l,fuel_use_l_per_100km,cost_per_km,waiting_cost_per_day
+light_truck,Light flatbed,7000,6000,250,30,2.5,350
+semi_a,"Semi, single trailer",14000,20000,350,42,3.8,500
+semi_b,"Semi, heavy trailer",16000,30000,400,48,4.4,600
+tanker,Fuel tanker,15000,26000,380,45,4.2,550
